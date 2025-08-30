@@ -8,9 +8,9 @@ Chào mừng bạn đến với Snake Game! Đây là trò chơi nho nhỏ đư�
 - **Di chuyển**: Sử dụng cái phím mũi tên lên xuống trái phải để điều khiển chú rắn đi săn mồi.
 
 ## Công nghệ sử dụng
-- **Trình biên dịch**: VSCode, VS Studio
-- **Ngôn ngữ**: Python
-- **Thư viện hỗ trợ**: Pygame, random, numpy
+- **Trình biên dịch**: VSCode.
+- **Ngôn ngữ**: Python.
+- **Thư viện hỗ trợ**: Pygame, random, numpy.
 
 ## Yêu cầu hệ thống
 - Game vẫn chưa có .exe nên vẫn phải chạy trong trình biên dịch VSCode, truy cập đường dẫn sau để tải về: https://code.visualstudio.com/.
