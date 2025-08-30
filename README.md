@@ -9,11 +9,11 @@ Chào mừng bạn đến với Snake Game! Đây là trò chơi nho nhỏ đư�
 
 ## Công nghệ sử dụng
 - Trình biên dịch: Python
-- Thư viện hỗ trợ: Pygame, random
+- Thư viện hỗ trợ: Pygame, random, numpy
 
 ## Yêu cầu hệ thống
 - Game vẫn chưa có .exe nên vẫn phải chạy trong trình biên dịch VSCode, truy cập đường dẫn sau để tải về: https://code.visualstudio.com/.
-- Tải python trên trang chủ pyhon về, truy cập đường dẫn sau để truy cập:https://www.python.org/downloads/.
+- Tải python trên trang chủ python về, truy cập đường dẫn sau để truy cập:https://www.python.org/downloads/.
 
 ## Khởi động Game
 - Mở VSCode và mở thư mục PygameSnake trong VSCode và run để chạy.
